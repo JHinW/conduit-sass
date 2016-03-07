@@ -1,6 +1,6 @@
 {
   "name": "conduit-sass",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Conduit SASS files (with Bootstrap 4 included) + optional build tools for modifying templates",
   "dependencies": {
     "gulp": "^3.9.1",
