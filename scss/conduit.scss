@@ -22,7 +22,7 @@ $brand-primary: #5CB85C !default;
 $brand-danger:  #B85C5C !default;
 
 // Include bootstrap 4 SCSS entry file
-@import 'bootstrap-scss/bootstrap.scss';
+@import '../bootstrap-scss/bootstrap.scss';
 
 // Override btn-small to be a tad bit bigger
 // .btn-sm {
