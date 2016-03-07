@@ -2,7 +2,7 @@ $enable-flex:               true;
 $enable-grid-classes:       true;
 
 // CONDUIT STYLES //
-$font-family-logo:       'Titillium Web', sans-serif;
+$font-family-logo:       'Titillium Web', sans-serif !default;
 .logo-font {
   font-family: $font-family-logo;
 }
@@ -16,9 +16,10 @@ html {
 
 // Bootstrap overrides
 // $headings-font-family:   'Merriweather Sans', sans-serif;
-$font-family-sans-serif: 'Source Sans Pro', sans-serif;
-$brand-primary: #5CB85C;
-$brand-danger:  #B85C5C;
+$font-family-sans-serif: 'Source Sans Pro', sans-serif !default;
+
+$brand-primary: #5CB85C !default;
+$brand-danger:  #B85C5C !default;
 
 // Include bootstrap 4 SCSS entry file
 @import 'bootstrap-scss/bootstrap.scss';

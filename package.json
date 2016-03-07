@@ -1,7 +1,7 @@
 {
-  "name": "conduit-sass-prio",
+  "name": "conduit-sass",
   "version": "1.0.0",
-  "description": "Conduit and Bootstrap 4 SASS files + optional build tools for modifying templates",
+  "description": "Conduit SASS files (with Bootstrap 4 included) + optional build tools for modifying templates",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-minify-css": "^1.2.4",
