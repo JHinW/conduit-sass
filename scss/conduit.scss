@@ -15,7 +15,7 @@ html {
 }
 
 // Bootstrap overrides
-$headings-font-family:   'Merriweather Sans', sans-serif;
+// $headings-font-family:   'Merriweather Sans', sans-serif;
 $font-family-sans-serif: 'Source Sans Pro', sans-serif;
 $brand-primary: #5CB85C;
 $brand-danger:  #B85C5C;
@@ -196,14 +196,18 @@ footer {
   }
   .preview-link {
     h1 {
-      font-weight:700 !important;
-      font-size:2rem !important;
+      font-weight:600 !important;
+      font-size:1.5rem !important;
+      margin-bottom:3px;
     }
     p {
-      font-family: 'Source Serif Pro', serif;
+      // font-family: 'Source Serif Pro', serif;
+      font-weight:300;
+      font-size:24px;
       color:#999;
-      margin-bottom:0;
-      font-size:1.3rem;
+      margin-bottom:15px;
+      font-size:1rem;
+      line-height: 1.3rem;
     }
     // "Read more" span
     span {
