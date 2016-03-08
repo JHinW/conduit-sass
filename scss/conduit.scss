@@ -74,10 +74,19 @@ ul.tag-list {
   // margin-bottom:40px;
 }
 // set a smooth transition for nav-link hover effects
-.nav-link:hover {
-  transition: 0.1s all;
+.nav-link {
+  .user-pic {
+    height: 26px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 5px;
+  }
+  &:hover {
+    transition: 0.1s all;
+  }
 }
 $navbar-padding-x: 0rem !important;
+
 
 // create style for nav-link pills that do an outline instead of block
 .nav-pills.outline-active {
