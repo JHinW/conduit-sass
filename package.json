@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GoThinkster/conduit-sass-prio.git"
+    "url": "git+https://github.com/GoThinkster/conduit-sass.git"
   },
   "keywords": [
     "bootstrap",
@@ -26,7 +26,7 @@
   "author": "Eric Simons",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GoThinkster/conduit-sass-prio/issues"
+    "url": "https://github.com/GoThinkster/conduit-sass/issues"
   },
-  "homepage": "https://github.com/GoThinkster/conduit-sass-prio#readme"
+  "homepage": "https://github.com/GoThinkster/conduit-sass#readme"
 }
