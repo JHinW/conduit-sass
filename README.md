@@ -15,3 +15,6 @@ We've included a simple gulp task that assists in viewing & modifying the templa
 3. Run `gulp`
 
 Your browser should open automatically with livereload enabled. Whenever you edit SASS files in the `scss/` folder or modify HTML files in the `pages/` folder, gulp will regenerate & place a single CSS file and the individual HTML files into the `app/` folder.
+
+## issue resolve
+https://github.com/JeremyEnglert/JointsWP/issues/317 
